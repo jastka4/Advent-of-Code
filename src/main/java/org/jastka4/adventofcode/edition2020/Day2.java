@@ -1,4 +1,4 @@
-package org.jastka4.adventofcode2020;
+package org.jastka4.adventofcode.edition2020;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.tuple.ImmutablePair;
@@ -65,7 +65,7 @@ import java.util.regex.Pattern;
  */
 public class Day2 {
 
-    private static final String INPUT_CONFIG = "input.day2";
+    private static final String INPUT_CONFIG = "input.2020.day2";
 
     @SuppressWarnings("java:S106")
     public static void main(String... args) {

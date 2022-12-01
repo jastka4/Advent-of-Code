@@ -1,4 +1,4 @@
-package org.jastka4.adventofcode2020;
+package org.jastka4.adventofcode.edition2020;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -54,7 +54,7 @@ import java.util.Set;
  * In your expense report, what is the product of the three entries that sum to 2020?
  */
 public class Day1 {
-    private static final String INPUT_CONFIG = "input.day1";
+    private static final String INPUT_CONFIG = "input.2020.day1";
     private static final int SUM = 2020;
 
     @SuppressWarnings("java:S106")

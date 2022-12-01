@@ -1,4 +1,4 @@
-package org.jastka4.adventofcode2020;
+package org.jastka4.adventofcode.edition2020;
 
 import java.io.IOException;
 import java.io.InputStream;
